@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on these projects,
     -  [a Baby Products Review site for parents](https://github.com/ThomasSpare/BabyGear)
-    -  a machine learning app that can spot garbage bins on a photo
+    -  [a machine learning app that can spot garbage bins on a photo](https://github.com/ThomasSpare/Garbage_bin_scanner/tree/main)
       
 - 🌱 I’m currently learning
     - Machine Learning using google colab
