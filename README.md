@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Thomas Spåre
 
 - 🔭 I’m currently working on these projects,
     1. a Baby Products Review site for parents
