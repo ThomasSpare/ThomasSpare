@@ -4,7 +4,10 @@
     -  a Baby Products Review site for parents
     -  a machine learning app that can spot garbage bins on a photo
       
-- 🌱 I’m currently learning Machine Learning using google colab 
+- 🌱 I’m currently learning
+    - Machine Learning using google colab
+    - C++
+       
 - 👯 I’m looking to collaborate on Django and machine learning projects
   (I am open to most projects so just ask me..)
 - 🤔 I’m looking for help with machine learning especially image recognition
