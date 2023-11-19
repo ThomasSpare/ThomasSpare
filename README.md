@@ -13,5 +13,5 @@
 - 🤔 I’m looking for help with machine learning especially image recognition
    
 - 📫 How to reach me: t.spare.jkpg@gmail.com
-  Connect with me:  [LINKEDIN](https://www.linkedin.com/in/thomas-sp%C3%A5re-93b748133/?originalSubdomain=se)
--->
+- Connect with me:  [LINKEDIN](https://www.linkedin.com/in/thomas-sp%C3%A5re-93b748133/?originalSubdomain=se)
+
