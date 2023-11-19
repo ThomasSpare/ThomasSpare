@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Thomas Spåre
 
 - 🔭 I’m currently working on these projects,
-    -  a Baby Products Review site for parents
+    -  [a Baby Products Review site for parents](https://github.com/ThomasSpare/BabyGear)
     -  a machine learning app that can spot garbage bins on a photo
       
 - 🌱 I’m currently learning
