@@ -10,7 +10,7 @@
        
 - 👯 I’m looking to collaborate on Django and machine learning projects
   (I am open to most projects so just ask me..)
-- 🤔 I’m looking for help with machine learning especially image recognition
+- 🤔 I’m looking for help with machine learning especially computer vision.
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasSpare&theme=tokyonight)
    
