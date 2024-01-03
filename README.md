@@ -5,8 +5,10 @@
     -  [a machine learning app that can spot garbage bins on a photo](https://github.com/ThomasSpare/Garbage_bin_scanner/tree/main)
       
 - 🌱 I’m currently learning
-    - Machine Learning using google colab
+    - Stanford Unversity: CS50 AI with       Python
+    - Machine Learning using google          colab
     - C++
+    - Vue
        
 - 👯 I’m looking to collaborate on Django and machine learning projects
   (I am open to most projects so just ask me..)
