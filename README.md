@@ -1,9 +1,9 @@
 ### Hi there 👋 I am Thomas Spåre
 
-- 🔭 I’m currently working on these projects,
-- [A Brewery website](https://thomasspare.github.io/Prodac/Prodac/)
-    -  [a Baby Products Review site for parents that can be changed to host other products](https://github.com/ThomasSpare/BabyGear)
-    -  [a machine learning app that can spot garbage bins on a photo](https://github.com/ThomasSpare/Garbage_bin_scanner/tree/main)
+-  I’m currently working on these projects,
+-  [A Swedish Beer Brewery website](https://thomasspare.github.io/Prodac/Prodac/)
+-  [a Baby Products Review site for parents that can be changed to host other products](https://github.com/ThomasSpare/BabyGear)
+-  [a machine learning app that can spot garbage bins on a photo](https://github.com/ThomasSpare/Garbage_bin_scanner/tree/main)
       
 - 🌱 I’m currently learning
     - Stanford Unversity: CS50 AI with       Python
