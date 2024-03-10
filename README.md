@@ -6,7 +6,7 @@
 -  [a machine learning app that can spot garbage bins on a photo](https://github.com/ThomasSpare/Garbage_bin_scanner/tree/main)
       
 - 🌱 I’m currently learning
-    - [Building Apps with React Native](https://github.com/ThomasSpare/Signum_js_base-master-main)
+    - [Building Mobile Apps with React Native](https://github.com/ThomasSpare/Signum_js_base-master-main)
     - Stanford Unversity: CS50 AI with       Python
     - Machine Learning using google          colab
     - C++
