@@ -8,13 +8,10 @@
 - 🌱 I’m currently learning
     - [Building Mobile Apps with React Native](https://github.com/ThomasSpare/Signum_js_base-master-main)
     - Stanford Unversity: CS50 AI with       Python
-    - Machine Learning using google          colab
     - C++
-    - Vue
        
 - 👯 I’m looking to collaborate on Django and machine learning projects
   (I am open to most projects so just ask me..)
-- 🤔 I’m looking for help with machine learning especially computer vision.
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasSpare&theme=tokyonight)
    
