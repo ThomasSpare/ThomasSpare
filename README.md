@@ -12,8 +12,6 @@
        
 - 👯 I’m looking to collaborate on Django and machine learning projects
   (I am open to most projects so just ask me..)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasSpare&theme=tokyonight)
    
 - 📫 How to reach me: t.spare.jkpg@gmail.com
 - Connect with me:  [LINKEDIN](https://www.linkedin.com/in/thomas-sp%C3%A5re-93b748133/?originalSubdomain=se)
