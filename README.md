@@ -1,7 +1,11 @@
 ### Hi there 👋 I am Thomas Spåre
 
--  I’m currently working on these projects,
--  [MÅSTE - Research in Nuclear Recycling (Node.js React site)](https://github.com/ThomasSpare/maste_science)
+-  I’m currently working on these projects
+  
+✔️ Ready
+[MÅSTE - Research in Nuclear Recycling (Node.js React site)](https://github.com/ThomasSpare/maste_science)
+
+✔️ Ready [MÅSTE - LIVE SITE](https://maste-science-frontend.onrender.com/)
 -  [a Baby Products Review site for parents that can be changed to host other products](https://github.com/ThomasSpare/BabyGear)
 
       
