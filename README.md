@@ -6,7 +6,6 @@
 [MÅSTE - Research in Nuclear Energy (Node.js React site)](https://github.com/ThomasSpare/maste_science)
 
 ✔️ Ready [MÅSTE - LIVE SITE](https://maste-science-frontend.onrender.com/)
--  [a Baby Products Review site for parents that can be changed to host other products](https://github.com/ThomasSpare/BabyGear)
 
       
 - 🌱 I’m currently learning
