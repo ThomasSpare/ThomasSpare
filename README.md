@@ -1,11 +1,15 @@
 ### Hi there 👋 I am Thomas Spåre
 
--  This is a fullstack site I've built
+-  This is some fullstack sites I've built
   
-✔️ Ready
+✔️ 
 [MÅSTE - Research in Nuclear Energy (On Github, Node.js, React)](https://github.com/ThomasSpare/maste_science)
 
-✔️ Ready [MÅSTE - LIVE SITE](https://maste.nu/)
+✔️ [MÅSTE - LIVE SITE](https://maste.nu/)
+
+--------------------------
+✔️ [Frontdoor - Artist site (Node.js, React)](https://bigjohnmuzik.se/)
+
 
       
 - 🌱 I’m currently learning
