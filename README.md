@@ -3,9 +3,9 @@
 -  I’m currently working on these projects
   
 ✔️ Ready
-[MÅSTE - Research in Nuclear Energy (Node.js React site)](https://github.com/ThomasSpare/maste_science)
+[MÅSTE - Research in Nuclear Energy (On Github, Node.js, React)](https://github.com/ThomasSpare/maste_science)
 
-✔️ Ready [MÅSTE - LIVE SITE](https://maste-science-frontend.onrender.com/)
+✔️ Ready [MÅSTE - LIVE SITE](https://maste.nu/)
 
       
 - 🌱 I’m currently learning
