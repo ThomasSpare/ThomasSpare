@@ -9,9 +9,10 @@
 
       
 - 🌱 I’m currently learning
-    - [Building Mobile Apps with React Native](https://github.com/ThomasSpare/Signum_js_base-master-main)
-    - Stanford Unversity: CS50 AI with       Python
-    - C++
+    - Building with Dart
+    - Building with Next.js
+    - Building Backend with MongoDB and Node.js
+    - Stanford Unversity: CS50 AI with Python
        
 - 👯 I’m looking to collaborate on Django and machine learning projects
   (I am open to most projects so just ask me..)
