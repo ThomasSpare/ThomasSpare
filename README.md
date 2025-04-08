@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Thomas Spåre
 
--  I’m currently working on these projects
+-  This is a fullstack site I've built
   
 ✔️ Ready
 [MÅSTE - Research in Nuclear Energy (On Github, Node.js, React)](https://github.com/ThomasSpare/maste_science)
