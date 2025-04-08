@@ -1,6 +1,10 @@
 ### Hi there 👋 I am Thomas Spåre
 
--  This is some fullstack sites I've built
+I am a fullstack developer working freelance at the moment
+Open to new oppurtunities
+
+
+-  These are some fullstack sites I've built
   
 ✔️ 
 [MÅSTE - Research in Nuclear Energy (On Github, Node.js, React)](https://github.com/ThomasSpare/maste_science)
