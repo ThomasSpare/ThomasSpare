@@ -3,7 +3,7 @@
 I am a fullstack developer working freelance at the moment
 Open to new oppurtunities
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasSpare&layout=pie)](https://github.com/ThomasSpare/github-readme-stats)
 
 -  These are some fullstack sites I've built
   
