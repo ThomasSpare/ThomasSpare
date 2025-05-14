@@ -4,6 +4,7 @@ I am a fullstack developer working freelance at the moment
 Open to new oppurtunities
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasSpare&layout=pie)](https://github.com/ThomasSpare/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThomasSpare)](https://github.com/ThomasSpare/github-readme-stats)
 
 -  These are some fullstack sites I've built
   
