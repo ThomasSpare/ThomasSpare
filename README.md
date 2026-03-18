@@ -10,17 +10,25 @@ Open to new oppurtunities
 
 ✔️ [MÅSTE - LIVE SITE](https://maste.nu/)
 
-✔️ [Frontdoor - Artist site (Node.js, React)](https://bigjohnmuzik.se/)
+
+✔️ [SKRIBBLE - LIVE SITE](https://skribble.website)
+Are you collaborating on music with others - then this site is for you.
+Make comments on the same waveform, invite anyone with a link.
+Open your project with comments in your favorite DAW.
+30 day trial
+
+
+
 
 ---------------------------
 
 
       
 - 🌱 I’m currently learning
-    - Building with Dart
+    - Building with Go
     - Building with Next.js
     - Building Backend with MongoDB and Node.js
-    - Stanford Unversity: CS50 AI with Python
+    - Building with Haskell
 
 ----------------------------
    
