@@ -5,8 +5,6 @@ Open to new oppurtunities
 
 -  These are some fullstack sites I've built
   
-✔️ 
-[MÅSTE - Research in Nuclear Energy (On Github, Node.js, React)](https://github.com/ThomasSpare/maste_science)
 
 ✔️ [MÅSTE - LIVE SITE](https://maste.nu/)
 
